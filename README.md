@@ -19,7 +19,7 @@ JDG Server Machine
 - OpenJDK 1.7.0_19
 
 
-**Put Operation with 200 Threads**
+**Put Operation with 200 Threads**  
 **JDG Server is single instance**
 
 Original HotRod Client:  
