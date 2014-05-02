@@ -31,7 +31,7 @@ SimpleLockFreeObjectPool HotRod Client :
 
 ## Point of view
 
-HotRod uses Apache Commons pool. This pooling implementation was coded using **syncronized**, so HotRod Clinet don't use full cpu power under the multi prosessor and mault core evironment.
+HotRod uses Apache Commons pool. This pooling implementation was coded using **syncronized**, so HotRod Clinet don't use full cpu power under the multi prosessor and multi core evironment.
 
-HotRod with SimpleLockFreeObjectPool'ed transport can use full cpu power under the multi prosessor and mault core evironment.
+HotRod with SimpleLockFreeObjectPool'ed transport can use full cpu power under the multi prosessor and multi core evironment.
 
