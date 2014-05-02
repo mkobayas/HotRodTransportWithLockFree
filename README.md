@@ -20,7 +20,7 @@ JDG Server Machine
 
 
 **Put Operation with 200 Threads**
-
+**JDG Server is single instance**
 
 Original HotRod Client:  
 -  62,250 tx/sec  
