@@ -20,9 +20,9 @@
  * Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
  * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
  */
-package io.mk.example.hotrod;
+package org.mk300.example.hotrod;
 
-import io.mk.pool.KeyedSimpleLockFreeObjectPool;
+import org.mk300.pool.KeyedSimpleLockFreeObjectPool;
 
 import java.net.SocketAddress;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package io.mk.example.hotrod;
+package org.mk300.example.hotrod;
 
 
 import java.util.Properties;
@@ -9,6 +9,7 @@ import org.infinispan.client.hotrod.impl.ConfigurationProperties;
 import org.kohsuke.args4j.CmdLineException;
 import org.kohsuke.args4j.CmdLineParser;
 import org.kohsuke.args4j.Option;
+import org.mk300.example.hotrod.LockFreePooledTcpTransportFactory;
 
 public class HotRodLoadTest {
 

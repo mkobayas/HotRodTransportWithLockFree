@@ -1,7 +1,7 @@
-package io.mk.example.hotrod;
+package org.mk300.example.hotrod;
 
-import io.mk.pool.KeyedObjectControllerFactory;
-import io.mk.pool.ObjectController;
+import org.mk300.pool.KeyedObjectControllerFactory;
+import org.mk300.pool.ObjectController;
 
 import java.net.SocketAddress;
 import java.util.concurrent.atomic.AtomicInteger;
